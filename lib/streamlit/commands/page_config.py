@@ -1,4 +1,4 @@
-# Copyright 2018-2021 Streamlit Inc.
+# Copyright 2018-2022 Streamlit Inc.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-from urllib.parse import urlparse, ParseResult
+from urllib.parse import urlparse
 from textwrap import dedent
 
 from streamlit.script_run_context import get_script_run_ctx
